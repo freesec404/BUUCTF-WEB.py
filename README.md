@@ -1,2 +1,2 @@
 # BUUCTF-WEB.py
-一个存储BUUCTF WEB题目解题脚本的仓库
+基于 Python 实现 BUUCTF Web 解题脚本，持续精进编程能力
